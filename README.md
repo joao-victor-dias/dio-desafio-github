@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/GitHub - Bootcamp Localiza Labs .NET
+# Desafio de Projeto sobre Git/GitHub
 Repositório criado para o Desafio de Projeto.
 
 **Git:** É um sistema de controle de versão. 
